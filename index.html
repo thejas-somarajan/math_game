@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="en-AU">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover" />
+    <meta name="theme-color" content="#102a29" />
+    <meta name="description" content="An original arcade adventure that turns Year 5 maths into rocket fuel." />
+    <title>Sky Numeracy · Adventure awaits</title>
+  </head>
+  <body>
+    <div id="root">
+      <section id="launch-help" hidden style="min-height:100vh;box-sizing:border-box;padding:60px 24px;background:#edf2e5;color:#254435;font-family:Arial,sans-serif">
+        <div style="max-width:520px;margin:8vh auto;background:#fbfcf5;border:1px solid #d6e1ca;border-radius:16px;padding:36px">
+          <p style="font-size:12px;letter-spacing:2px;color:#79936c">SKY NUMERACY · READY FOR TAKE-OFF</p>
+          <h1 style="font-size:32px;line-height:1.2">Your adventure starts<br />with the launcher.</h1>
+          <p style="line-height:1.7;color:#697e60">In this folder, double-click <strong>Launch Sky Numeracy.command</strong>. Keep its Terminal window open while you play.</p>
+          <p style="line-height:1.7;color:#697e60">If you have already started the launcher, open the game below.</p>
+          <a href="http://localhost:4173" style="display:inline-block;background:#df8e48;color:#fffaf1;padding:16px 24px;border-radius:7px;text-decoration:none;font-weight:bold">Open Sky Numeracy →</a>
+          <p style="font-size:13px;line-height:1.6;margin-top:24px;color:#8d9d80">This HTML file is part of the project. The launcher serves the game locally so the browser can load it correctly. No internet connection is needed.</p>
+        </div>
+      </section>
+    </div>
+    <script>
+      if (location.protocol === 'file:') {
+        document.getElementById('launch-help').hidden = false;
+        document.body.style.margin = '0';
+      }
+    </script>
+    <script type="module">
+      if (location.protocol !== 'file:') import('/src/main.tsx');
+    </script>
+  </body>
+</html>

@@ -1,0 +1,94 @@
+{
+  "tool": "Built-in image_gen",
+  "original": true,
+  "assets": [
+    {
+      "file": "hangar.png",
+      "prompt": "Use case: stylized-concept. Asset type: wide 3:2 game title screen illustration. Create original beautiful 1990s 16-bit arcade pixel art, top-down oblique aerial composition: a bright ivory and turquoise futuristic friendly jet flying upward over emerald island forests, winding turquoise river, rocky cliffs, sunlight and drifting cream clouds. Two tiny coral enemy drones in distance. Rich detailed pixel clusters, cinematic warm afternoon light, deep teal shadows. Strong central winding river, clear dark teal lower left area for interface text. No text, no letters, no logos, no HUD, no military insignia, no border. Entire image filled, landscape orientation. Polished premium retro arcade game key art, original design."
+    },
+    {
+      "file": "terrain-1.png",
+      "prompt": "Use case: stylized-concept. Asset type: portrait seamless-style scrolling terrain for an original vertical shooter. Strict straight overhead TOP DOWN orthographic view, NO horizon, NO perspective sky. Scene: emerald forest split by a winding turquoise river, mossy cliffs. Exquisite 16-bit arcade pixel art, dense clear pixel clusters and sculpted terrain, rich sophisticated colours, no dithering noise. Vertical orientation 2:3, terrain fills all edges, playable open central corridor, terrain features primarily on edges. No aircraft, no characters, no labels, no typography, no UI, no frame. Original family-friendly game background, readable at small scale. Top and bottom should transition naturally in a vertically repeating terrain."
+    },
+    {
+      "file": "terrain-2.png",
+      "prompt": "Use case: stylized-concept. Asset type: portrait seamless-style scrolling terrain for an original vertical shooter. Strict straight overhead TOP DOWN orthographic view, NO horizon, NO perspective sky. Scene: turquoise ocean coastline, tall sandstone coastal cliffs, white sea foam. Exquisite 16-bit arcade pixel art, dense clear pixel clusters and sculpted terrain, rich sophisticated colours, no dithering noise. Vertical orientation 2:3, terrain fills all edges, playable open central corridor, terrain features primarily on edges. No aircraft, no characters, no labels, no typography, no UI, no frame. Original family-friendly game background, readable at small scale. Top and bottom should transition naturally in a vertically repeating terrain."
+    },
+    {
+      "file": "terrain-3.png",
+      "prompt": "Use case: stylized-concept. Asset type: portrait seamless-style scrolling terrain for an original vertical shooter. Strict straight overhead TOP DOWN orthographic view, NO horizon, NO perspective sky. Scene: ochre desert canyon, winding narrow blue river, layered red sandstone. Exquisite 16-bit arcade pixel art, dense clear pixel clusters and sculpted terrain, rich sophisticated colours, no dithering noise. Vertical orientation 2:3, terrain fills all edges, playable open central corridor, terrain features primarily on edges. No aircraft, no characters, no labels, no typography, no UI, no frame. Original family-friendly game background, readable at small scale. Top and bottom should transition naturally in a vertically repeating terrain."
+    },
+    {
+      "file": "terrain-4.png",
+      "prompt": "Use case: stylized-concept. Asset type: portrait seamless-style scrolling terrain for an original vertical shooter. Strict straight overhead TOP DOWN orthographic view, NO horizon, NO perspective sky. Scene: deep blue ocean, futuristic unbranded floating carrier deck on one edge, tiny islands. Exquisite 16-bit arcade pixel art, dense clear pixel clusters and sculpted terrain, rich sophisticated colours, no dithering noise. Vertical orientation 2:3, terrain fills all edges, playable open central corridor, terrain features primarily on edges. No aircraft, no characters, no labels, no typography, no UI, no frame. Original family-friendly game background, readable at small scale. Top and bottom should transition naturally in a vertically repeating terrain."
+    },
+    {
+      "file": "terrain-5.png",
+      "prompt": "Use case: stylized-concept. Asset type: portrait seamless-style scrolling terrain for an original vertical shooter. Strict straight overhead TOP DOWN orthographic view, NO horizon, NO perspective sky. Scene: dramatic dark indigo storm clouds, blue lightning glow but no actual lightning bolts. Exquisite 16-bit arcade pixel art, dense clear pixel clusters and sculpted terrain, rich sophisticated colours, no dithering noise. Vertical orientation 2:3, terrain fills all edges, playable open central corridor, terrain features primarily on edges. No aircraft, no characters, no labels, no typography, no UI, no frame. Original family-friendly game background, readable at small scale. Top and bottom should transition naturally in a vertically repeating terrain."
+    },
+    {
+      "file": "terrain-6.png",
+      "prompt": "Use case: stylized-concept. Asset type: portrait seamless-style scrolling terrain for an original vertical shooter. Strict straight overhead TOP DOWN orthographic view, NO horizon, NO perspective sky. Scene: alpine green mountain pass, rocky ridges, winding valley stream. Exquisite 16-bit arcade pixel art, dense clear pixel clusters and sculpted terrain, rich sophisticated colours, no dithering noise. Vertical orientation 2:3, terrain fills all edges, playable open central corridor, terrain features primarily on edges. No aircraft, no characters, no labels, no typography, no UI, no frame. Original family-friendly game background, readable at small scale. Top and bottom should transition naturally in a vertically repeating terrain."
+    },
+    {
+      "file": "terrain-7.png",
+      "prompt": "Use case: stylized-concept. Asset type: portrait seamless-style scrolling terrain for an original vertical shooter. Strict straight overhead TOP DOWN orthographic view, NO horizon, NO perspective sky. Scene: arctic ice shelves, dark teal water channels, powder blue snow. Exquisite 16-bit arcade pixel art, dense clear pixel clusters and sculpted terrain, rich sophisticated colours, no dithering noise. Vertical orientation 2:3, terrain fills all edges, playable open central corridor, terrain features primarily on edges. No aircraft, no characters, no labels, no typography, no UI, no frame. Original family-friendly game background, readable at small scale. Top and bottom should transition naturally in a vertically repeating terrain."
+    },
+    {
+      "file": "terrain-8.png",
+      "prompt": "Use case: stylized-concept. Asset type: portrait seamless-style scrolling terrain for an original vertical shooter. Strict straight overhead TOP DOWN orthographic view, NO horizon, NO perspective sky. Scene: volcanic islands, dark basalt, glowing orange lava streams into blue ocean. Exquisite 16-bit arcade pixel art, dense clear pixel clusters and sculpted terrain, rich sophisticated colours, no dithering noise. Vertical orientation 2:3, terrain fills all edges, playable open central corridor, terrain features primarily on edges. No aircraft, no characters, no labels, no typography, no UI, no frame. Original family-friendly game background, readable at small scale. Top and bottom should transition naturally in a vertically repeating terrain."
+    },
+    {
+      "file": "terrain-9.png",
+      "prompt": "Use case: stylized-concept. Asset type: portrait seamless-style scrolling terrain for an original vertical shooter. Strict straight overhead TOP DOWN orthographic view, NO horizon, NO perspective sky. Scene: night city grid, jewel teal roads, amber windows, magenta neon rooftops. Exquisite 16-bit arcade pixel art, dense clear pixel clusters and sculpted terrain, rich sophisticated colours, no dithering noise. Vertical orientation 2:3, terrain fills all edges, playable open central corridor, terrain features primarily on edges. No aircraft, no characters, no labels, no typography, no UI, no frame. Original family-friendly game background, readable at small scale. Top and bottom should transition naturally in a vertically repeating terrain."
+    },
+    {
+      "file": "terrain-10.png",
+      "prompt": "Use case: stylized-concept. Asset type: portrait seamless-style scrolling terrain for an original vertical shooter. Strict straight overhead TOP DOWN orthographic view, NO horizon, NO perspective sky. Scene: orbital station exterior, blue planet edge, original futuristic panels. Exquisite 16-bit arcade pixel art, dense clear pixel clusters and sculpted terrain, rich sophisticated colours, no dithering noise. Vertical orientation 2:3, terrain fills all edges, playable open central corridor, terrain features primarily on edges. No aircraft, no characters, no labels, no typography, no UI, no frame. Original family-friendly game background, readable at small scale. Top and bottom should transition naturally in a vertically repeating terrain."
+    },
+    {
+      "file": "terrain-11.png",
+      "prompt": "Use case: stylized-concept. Asset type: portrait seamless-style scrolling terrain for an original vertical shooter. Strict straight overhead TOP DOWN orthographic view, NO horizon, NO perspective sky. Scene: bright farmland patchwork fields, windmills, meandering stream. Exquisite 16-bit arcade pixel art, dense clear pixel clusters and sculpted terrain, rich sophisticated colours, no dithering noise. Vertical orientation 2:3, terrain fills all edges, playable open central corridor, terrain features primarily on edges. No aircraft, no characters, no labels, no typography, no UI, no frame. Original family-friendly game background, readable at small scale. Top and bottom should transition naturally in a vertically repeating terrain."
+    },
+    {
+      "file": "terrain-12.png",
+      "prompt": "Use case: stylized-concept. Asset type: portrait seamless-style scrolling terrain for an original vertical shooter. Strict straight overhead TOP DOWN orthographic view, NO horizon, NO perspective sky. Scene: bustling friendly harbour, docks, colourful cargo containers, blue water. Exquisite 16-bit arcade pixel art, dense clear pixel clusters and sculpted terrain, rich sophisticated colours, no dithering noise. Vertical orientation 2:3, terrain fills all edges, playable open central corridor, terrain features primarily on edges. No aircraft, no characters, no labels, no typography, no UI, no frame. Original family-friendly game background, readable at small scale. Top and bottom should transition naturally in a vertically repeating terrain."
+    },
+    {
+      "file": "terrain-13.png",
+      "prompt": "Use case: stylized-concept. Asset type: portrait seamless-style scrolling terrain for an original vertical shooter. Strict straight overhead TOP DOWN orthographic view, NO horizon, NO perspective sky. Scene: ancient jungle ruins, overgrown stone steps, emerald canopy, hidden river. Exquisite 16-bit arcade pixel art, dense clear pixel clusters and sculpted terrain, rich sophisticated colours, no dithering noise. Vertical orientation 2:3, terrain fills all edges, playable open central corridor, terrain features primarily on edges. No aircraft, no characters, no labels, no typography, no UI, no frame. Original family-friendly game background, readable at small scale. Top and bottom should transition naturally in a vertically repeating terrain."
+    },
+    {
+      "file": "terrain-14.png",
+      "prompt": "Use case: stylized-concept. Asset type: portrait seamless-style scrolling terrain for an original vertical shooter. Strict straight overhead TOP DOWN orthographic view, NO horizon, NO perspective sky. Scene: deep space, turquoise and violet nebulae, tiny distant stars. Exquisite 16-bit arcade pixel art, dense clear pixel clusters and sculpted terrain, rich sophisticated colours, no dithering noise. Vertical orientation 2:3, terrain fills all edges, playable open central corridor, terrain features primarily on edges. No aircraft, no characters, no labels, no typography, no UI, no frame. Original family-friendly game background, readable at small scale. Top and bottom should transition naturally in a vertically repeating terrain."
+    },
+    {
+      "file": "terrain-15.png",
+      "prompt": "Use case: stylized-concept. Asset type: portrait seamless-style scrolling terrain for an original vertical shooter. Strict straight overhead TOP DOWN orthographic view, NO horizon, NO perspective sky. Scene: vast mothership outer hull, teal luminous panels, starry space channels. Exquisite 16-bit arcade pixel art, dense clear pixel clusters and sculpted terrain, rich sophisticated colours, no dithering noise. Vertical orientation 2:3, terrain fills all edges, playable open central corridor, terrain features primarily on edges. No aircraft, no characters, no labels, no typography, no UI, no frame. Original family-friendly game background, readable at small scale. Top and bottom should transition naturally in a vertically repeating terrain."
+    },
+    {
+      "file": "jets.png",
+      "prompt": "A production game sprite atlas, exactly THREE separate friendly futuristic fighter jets in one horizontal row, evenly spaced equal thirds, each pointing straight UP, strict overhead orthographic view. Jet 1 ivory and turquoise swept wings, jet 2 amber and ivory delta wings, jet 3 violet and ivory broad wings. Each fully visible and isolated with generous transparent padding; no overlap. Exquisite detailed crisp 16-bit arcade pixel art, original designs. No shadows on background, no trails, no text, no insignia. Transparent background."
+    },
+    {
+      "file": "enemies.png",
+      "prompt": "Production game sprite atlas with exactly FOUR original enemy drones in a precise 2 by 2 equal grid. Each fully visible centred in its own equal quadrant with generous transparent spacing. Top left small coral fighter, top right amber angular drone, bottom left purple double wing fighter, bottom right teal cargo transport. All face straight DOWN, strict overhead orthographic view. Detailed crisp 16-bit arcade pixel art, friendly cartoon action, bright readable silhouettes. No words no labels no trails no insignia. Genuinely transparent background."
+    },
+    {
+      "file": "pickups.png",
+      "prompt": "Production pixel game pickup sprite atlas exactly THREE icons, evenly spaced one horizontal row equal thirds with generous transparent padding. Left glowing cyan shield in a hexagon, middle golden three-pronged spread weapon emblem in a hexagon, right coral round cartoon energy bomb in a hexagon. Exquisite readable 16-bit pixel art with thick bright edges, no text no letters no shadows outside icons. Transparent background."
+    },
+    {
+      "file": "boss-1.png",
+      "prompt": "Single original arcade boss sprite: a broad manta-shaped storm sentinel with icy turquoise engines and copper armour. Straight overhead orthographic top-down view, points DOWN. Symmetrical strong readable silhouette, layered detailed 16-bit pixel metalwork, clean hard pixel edges. Entire ship fully visible centered with ample empty transparent padding. No trails, no scenery, no text, no insignia, no HUD, no realistic weapons, no gore. Genuinely transparent background."
+    },
+    {
+      "file": "boss-2.png",
+      "prompt": "Single original arcade boss sprite: an angular orbital guardian with purple wing panels and a golden centre reactor. Straight overhead orthographic top-down view, points DOWN. Symmetrical strong readable silhouette, layered detailed 16-bit pixel metalwork, clean hard pixel edges. Entire ship fully visible centered with ample empty transparent padding. No trails, no scenery, no text, no insignia, no HUD, no realistic weapons, no gore. Genuinely transparent background."
+    },
+    {
+      "file": "boss-3.png",
+      "prompt": "Single original arcade boss sprite: a gigantic friendly-cartoon alien mothership with a circular violet reactor and teal segmented crescent wings. Straight overhead orthographic top-down view, points DOWN. Symmetrical strong readable silhouette, layered detailed 16-bit pixel metalwork, clean hard pixel edges. Entire ship fully visible centered with ample empty transparent padding. No trails, no scenery, no text, no insignia, no HUD, no realistic weapons, no gore. Genuinely transparent background."
+    }
+  ]
+}

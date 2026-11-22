@@ -1,0 +1,437 @@
+[
+  {
+    "id": 1,
+    "module": 1,
+    "name": "River Run",
+    "theme": "Forest and river",
+    "skill": "Missing addends",
+    "subtitle": "Find the missing piece.",
+    "colour": "#8bc9a4",
+    "boss": true,
+    "segments": [
+      45,
+      90
+    ],
+    "duration": 90,
+    "waveEvery": 3.0,
+    "event": "rings",
+    "ammoCapacity": 180,
+    "bossConfig": {
+      "name": "River Warden",
+      "health": 20,
+      "fireInterval": 100,
+      "bulletSpeed": 1.6,
+      "bulletCount": 3,
+      "movePeriod": 140,
+      "moveAmplitude": 60,
+      "aimedShots": false,
+      "art": 1
+    }
+  },
+  {
+    "id": 2,
+    "module": 1,
+    "name": "Cliffside Cruise",
+    "theme": "Coastal cliffs",
+    "skill": "Missing subtraction parts",
+    "subtitle": "Find the missing piece.",
+    "colour": "#83c5d5",
+    "boss": true,
+    "segments": [
+      45,
+      90
+    ],
+    "duration": 90,
+    "waveEvery": 2.93,
+    "event": "escort",
+    "ammoCapacity": 180,
+    "bossConfig": {
+      "name": "Cliff Guardian",
+      "health": 24,
+      "fireInterval": 97,
+      "bulletSpeed": 1.68,
+      "bulletCount": 3,
+      "movePeriod": 137,
+      "moveAmplitude": 65,
+      "aimedShots": false,
+      "art": 1
+    }
+  },
+  {
+    "id": 3,
+    "module": 1,
+    "name": "Canyon Quest",
+    "theme": "Desert canyon",
+    "skill": "Fact families",
+    "subtitle": "Find the missing piece.",
+    "colour": "#dfa47b",
+    "boss": true,
+    "segments": [
+      45,
+      90
+    ],
+    "duration": 90,
+    "waveEvery": 2.86,
+    "event": "rings",
+    "ammoCapacity": 180,
+    "bossConfig": {
+      "name": "Canyon Colossus",
+      "health": 28,
+      "fireInterval": 94,
+      "bulletSpeed": 1.76,
+      "bulletCount": 3,
+      "movePeriod": 134,
+      "moveAmplitude": 70,
+      "aimedShots": false,
+      "art": 1
+    }
+  },
+  {
+    "id": 4,
+    "module": 1,
+    "name": "Ocean Odyssey",
+    "theme": "Ocean carrier",
+    "skill": "Decimal equations",
+    "subtitle": "Find the missing piece.",
+    "colour": "#78bccc",
+    "boss": true,
+    "segments": [
+      45,
+      90
+    ],
+    "duration": 90,
+    "waveEvery": 2.79,
+    "event": "escort",
+    "ammoCapacity": 180,
+    "bossConfig": {
+      "name": "Tidebreaker",
+      "health": 32,
+      "fireInterval": 91,
+      "bulletSpeed": 1.84,
+      "bulletCount": 3,
+      "movePeriod": 131,
+      "moveAmplitude": 75,
+      "aimedShots": false,
+      "art": 1
+    }
+  },
+  {
+    "id": 5,
+    "module": 1,
+    "name": "Storm Sentinel",
+    "theme": "Storm clouds",
+    "skill": "Balance equations",
+    "subtitle": "Find the missing piece.",
+    "colour": "#a69acb",
+    "boss": true,
+    "segments": [
+      45,
+      90
+    ],
+    "duration": 90,
+    "waveEvery": 2.7199999999999998,
+    "event": "rings",
+    "ammoCapacity": 180,
+    "bossConfig": {
+      "name": "Storm Sentinel",
+      "health": 36,
+      "fireInterval": 88,
+      "bulletSpeed": 1.92,
+      "bulletCount": 3,
+      "movePeriod": 128,
+      "moveAmplitude": 80,
+      "aimedShots": false,
+      "art": 1
+    }
+  },
+  {
+    "id": 6,
+    "module": 2,
+    "name": "Mountain Dash",
+    "theme": "Mountain pass",
+    "skill": "Missing factors",
+    "subtitle": "Make both sides balance.",
+    "colour": "#a4c5ab",
+    "boss": true,
+    "segments": [
+      45,
+      90
+    ],
+    "duration": 90,
+    "waveEvery": 2.65,
+    "event": "escort",
+    "ammoCapacity": 180,
+    "bossConfig": {
+      "name": "Alpine Aegis",
+      "health": 40,
+      "fireInterval": 85,
+      "bulletSpeed": 2.0,
+      "bulletCount": 5,
+      "movePeriod": 125,
+      "moveAmplitude": 85,
+      "aimedShots": false,
+      "art": 2
+    }
+  },
+  {
+    "id": 7,
+    "module": 2,
+    "name": "Arctic Echo",
+    "theme": "Arctic",
+    "skill": "Unknown dividends",
+    "subtitle": "Make both sides balance.",
+    "colour": "#a1d7de",
+    "boss": true,
+    "segments": [
+      45,
+      90
+    ],
+    "duration": 90,
+    "waveEvery": 2.58,
+    "event": "rings",
+    "ammoCapacity": 180,
+    "bossConfig": {
+      "name": "Frost Fang",
+      "health": 44,
+      "fireInterval": 82,
+      "bulletSpeed": 2.08,
+      "bulletCount": 5,
+      "movePeriod": 122,
+      "moveAmplitude": 90,
+      "aimedShots": false,
+      "art": 2
+    }
+  },
+  {
+    "id": 8,
+    "module": 2,
+    "name": "Volcano Voyage",
+    "theme": "Volcano islands",
+    "skill": "Unknown divisors",
+    "subtitle": "Make both sides balance.",
+    "colour": "#e89d7a",
+    "boss": true,
+    "segments": [
+      45,
+      90
+    ],
+    "duration": 90,
+    "waveEvery": 2.51,
+    "event": "escort",
+    "ammoCapacity": 180,
+    "bossConfig": {
+      "name": "Ember Wing",
+      "health": 48,
+      "fireInterval": 79,
+      "bulletSpeed": 2.16,
+      "bulletCount": 5,
+      "movePeriod": 119,
+      "moveAmplitude": 95,
+      "aimedShots": true,
+      "art": 2
+    }
+  },
+  {
+    "id": 9,
+    "module": 2,
+    "name": "Neon Skyline",
+    "theme": "Night city",
+    "skill": "Equivalent expressions",
+    "subtitle": "Make both sides balance.",
+    "colour": "#a29cdb",
+    "boss": true,
+    "segments": [
+      45,
+      90
+    ],
+    "duration": 90,
+    "waveEvery": 2.44,
+    "event": "rings",
+    "ammoCapacity": 180,
+    "bossConfig": {
+      "name": "Neon Phantom",
+      "health": 52,
+      "fireInterval": 76,
+      "bulletSpeed": 2.24,
+      "bulletCount": 5,
+      "movePeriod": 116,
+      "moveAmplitude": 100,
+      "aimedShots": true,
+      "art": 2
+    }
+  },
+  {
+    "id": 10,
+    "module": 2,
+    "name": "Orbital Guardian",
+    "theme": "Orbital station",
+    "skill": "Multiplication & division",
+    "subtitle": "Make both sides balance.",
+    "colour": "#8da7d7",
+    "boss": true,
+    "segments": [
+      45,
+      90
+    ],
+    "duration": 90,
+    "waveEvery": 2.37,
+    "event": "escort",
+    "ammoCapacity": 180,
+    "bossConfig": {
+      "name": "Orbital Guardian",
+      "health": 56,
+      "fireInterval": 73,
+      "bulletSpeed": 2.32,
+      "bulletCount": 5,
+      "movePeriod": 113,
+      "moveAmplitude": 105,
+      "aimedShots": true,
+      "art": 2
+    }
+  },
+  {
+    "id": 11,
+    "module": 3,
+    "name": "Harvest Horizon",
+    "theme": "Farmland",
+    "skill": "Stories to equations",
+    "subtitle": "Let your maths take flight.",
+    "colour": "#b6cc7c",
+    "boss": true,
+    "segments": [
+      45,
+      90
+    ],
+    "duration": 90,
+    "waveEvery": 2.3,
+    "event": "rings",
+    "ammoCapacity": 180,
+    "bossConfig": {
+      "name": "Harvest Harrier",
+      "health": 60,
+      "fireInterval": 70,
+      "bulletSpeed": 2.4,
+      "bulletCount": 7,
+      "movePeriod": 110,
+      "moveAmplitude": 110,
+      "aimedShots": true,
+      "art": 3
+    }
+  },
+  {
+    "id": 12,
+    "module": 3,
+    "name": "Harbour Hustle",
+    "theme": "Harbour",
+    "skill": "Start vs change",
+    "subtitle": "Let your maths take flight.",
+    "colour": "#8ec7c9",
+    "boss": true,
+    "segments": [
+      45,
+      90
+    ],
+    "duration": 90,
+    "waveEvery": 2.23,
+    "event": "escort",
+    "ammoCapacity": 180,
+    "bossConfig": {
+      "name": "Harbour Hydra",
+      "health": 64,
+      "fireInterval": 67,
+      "bulletSpeed": 2.48,
+      "bulletCount": 7,
+      "movePeriod": 107,
+      "moveAmplitude": 115,
+      "aimedShots": true,
+      "art": 3
+    }
+  },
+  {
+    "id": 13,
+    "module": 3,
+    "name": "Ruins of Reason",
+    "theme": "Jungle ruins",
+    "skill": "Number machines",
+    "subtitle": "Let your maths take flight.",
+    "colour": "#a1c29b",
+    "boss": true,
+    "segments": [
+      45,
+      90
+    ],
+    "duration": 90,
+    "waveEvery": 2.16,
+    "event": "rings",
+    "ammoCapacity": 180,
+    "bossConfig": {
+      "name": "Jungle Titan",
+      "health": 68,
+      "fireInterval": 64,
+      "bulletSpeed": 2.56,
+      "bulletCount": 7,
+      "movePeriod": 104,
+      "moveAmplitude": 120,
+      "aimedShots": true,
+      "art": 3
+    }
+  },
+  {
+    "id": 14,
+    "module": 3,
+    "name": "Cosmic Crossing",
+    "theme": "Deep space",
+    "skill": "Decimal stories",
+    "subtitle": "Let your maths take flight.",
+    "colour": "#b39ed6",
+    "boss": true,
+    "segments": [
+      45,
+      90
+    ],
+    "duration": 90,
+    "waveEvery": 2.09,
+    "event": "escort",
+    "ammoCapacity": 180,
+    "bossConfig": {
+      "name": "Cosmic Leviathan",
+      "health": 72,
+      "fireInterval": 61,
+      "bulletSpeed": 2.64,
+      "bulletCount": 7,
+      "movePeriod": 101,
+      "moveAmplitude": 125,
+      "aimedShots": true,
+      "art": 3
+    }
+  },
+  {
+    "id": 15,
+    "module": 3,
+    "name": "The Final Frontier",
+    "theme": "Mothership",
+    "skill": "Mixed review",
+    "subtitle": "Let your maths take flight.",
+    "colour": "#9daddc",
+    "boss": true,
+    "segments": [
+      45,
+      90
+    ],
+    "duration": 90,
+    "waveEvery": 2.02,
+    "event": "rings",
+    "ammoCapacity": 180,
+    "bossConfig": {
+      "name": "The Mothership",
+      "health": 76,
+      "fireInterval": 58,
+      "bulletSpeed": 2.72,
+      "bulletCount": 7,
+      "movePeriod": 98,
+      "moveAmplitude": 130,
+      "aimedShots": true,
+      "art": 3
+    }
+  }
+]

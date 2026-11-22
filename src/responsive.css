@@ -1,0 +1,743 @@
+/* Responsive overrides are below the base styles in the build via higher specificity. */
+@media (min-width: 1500px) {
+  .app .page-content,
+  .app .tutor-page {
+    padding-left: 45px;
+    padding-right: 45px;
+  }
+  .app .adventure-hero {
+    height: 420px;
+  }
+  .app .hero-copy {
+    padding: 42px 45px;
+  }
+  .app .hero-copy h2 {
+    font-size: 3.4rem;
+  }
+  .app .hero-copy > p {
+    font-size: 0.85rem;
+  }
+  .app .hero-caption {
+    margin-top: 25px;
+  }
+  .app .mission-thumbnail {
+    height: 170px;
+  }
+}
+@media (max-width: 1150px) {
+  .app .site-header {
+    padding: 0 4%;
+    gap: 15px;
+  }
+  .app .site-header nav {
+    margin-left: 0;
+    gap: 20px;
+  }
+  .app .header-right {
+    gap: 12px;
+  }
+  .app .header-right .offline-label {
+    display: none;
+  }
+  .app .page-content,
+  .app .tutor-page {
+    padding-left: 4%;
+    padding-right: 4%;
+  }
+  .app .journey-layout {
+    grid-template-columns: 200px 1fr;
+    gap: 20px;
+  }
+  .app .module-card {
+    padding: 13px 10px;
+    gap: 7px;
+  }
+  .app .module-symbol {
+    width: 25px;
+  }
+  .app .module-card-text > strong {
+    font-size: 0.68rem;
+  }
+  .app .mission-grid {
+    gap: 8px;
+  }
+  .app .mission-details {
+    padding: 10px 8px;
+  }
+  .app .mission-details h4 {
+    font-size: 0.61rem;
+  }
+  .app .mission-thumbnail {
+    height: 125px;
+  }
+  .app .ready-label {
+    display: none;
+  }
+  .app .learning-note > span:last-child {
+    display: none;
+  }
+  .app .flight-layout {
+    gap: 20px;
+    grid-template-columns: minmax(120px, 180px) minmax(300px, 470px) minmax(
+        120px,
+        170px
+      );
+  }
+  .app .flight-side h2 {
+    font-size: 1.3rem;
+  }
+  .app .assignment {
+    gap: 8px;
+  }
+  .app .assignment .stars {
+    display: none;
+  }
+}
+@media (max-width: 900px) {
+  .app .brand {
+    font-size: 1.35rem;
+  }
+  .app .brand-mark {
+    width: 36px;
+    height: 36px;
+  }
+  .app .site-header {
+    height: 85px;
+  }
+  .app .site-header nav {
+    gap: 15px;
+  }
+  .app .site-header nav button {
+    font-size: 0.7rem;
+  }
+  .app .tutor-button {
+    font-size: 0.62rem;
+    padding-left: 10px;
+  }
+  .app .avatar {
+    display: none;
+  }
+  .app .journey-layout {
+    display: block;
+  }
+  .app .module-list {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 10px;
+    margin-bottom: 25px;
+  }
+  .app .encouragement {
+    display: none;
+  }
+  .app .module-card {
+    min-height: 90px;
+  }
+  .app .mission-thumbnail {
+    height: 145px;
+  }
+  .app .hero-copy {
+    padding: 33px;
+  }
+  .app .adventure-hero {
+    height: 350px;
+  }
+  .app .hero-copy h2 {
+    font-size: 2.7rem;
+  }
+  .app .hero-art {
+    left: 25%;
+    background-position: 58% center;
+  }
+  .app .hero-copy > p {
+    font-size: 0.72rem;
+  }
+  .app .hero-stamp {
+    display: none;
+  }
+  .app .hero-coordinates {
+    right: 15px;
+    font-size: 0.35rem;
+  }
+  .app .learning-note p {
+    font-size: 0.65rem;
+  }
+  .app .mission-details h4 {
+    font-size: 0.73rem;
+    white-space: normal;
+    min-height: 30px;
+  }
+  .app .mission-details > p {
+    font-size: 0.54rem;
+  }
+  .app .mission-details {
+    padding: 11px 9px;
+  }
+  .app .pilot-stats {
+    gap: 18px;
+  }
+  .app .bottom-strip {
+    align-items: start;
+    gap: 20px;
+  }
+  .app .bottom-strip > .text-button {
+    max-width: 230px;
+    flex-wrap: wrap;
+    justify-content: end;
+    min-height: 30px;
+  }
+  .app .site-footer > span {
+    max-width: 50%;
+    line-height: 1.8;
+  }
+  .app .site-footer > div {
+    gap: 12px;
+  }
+  .app .flight-layout {
+    grid-template-columns: minmax(0, 480px);
+    gap: 0;
+  }
+  .app .flight-side {
+    display: none;
+  }
+  .app .flight-page {
+    min-height: calc(100vh - 85px);
+  }
+  .app .tutor-layout {
+    grid-template-columns: 180px 1fr;
+    gap: 20px;
+  }
+  .app .assignment {
+    flex-wrap: wrap;
+  }
+  .app .assignment > span:nth-child(2) {
+    min-width: 160px;
+  }
+  .app .assignment .inline-check {
+    margin-left: auto;
+  }
+  .app .manual-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+  .app .hangar-grid {
+    gap: 15px;
+  }
+  .app .jet-card {
+    padding: 18px;
+  }
+  .app .jet-sprite {
+    height: 200px;
+  }
+  .app .jet-card p {
+    font-size: 0.7rem;
+  }
+  .app .jet-card h2 {
+    font-size: 1.5rem;
+  }
+}
+@media (max-width: 650px) {
+  .app .site-header {
+    padding: 0 5%;
+    height: auto;
+    min-height: 86px;
+    flex-wrap: wrap;
+    gap: 0 15px;
+    padding-top: 15px;
+  }
+  .app .site-header .brand {
+    font-size: 1.35rem;
+  }
+  .app .header-right {
+    margin-left: auto;
+    order: 1;
+  }
+  .app .site-header nav {
+    order: 2;
+    width: 100%;
+    height: 48px;
+    justify-content: center;
+    gap: 45px;
+  }
+  .app .brand small {
+    font-size: 0.39rem;
+  }
+  .app .tutor-button {
+    border: 0;
+    font-size: 0.6rem;
+    gap: 5px;
+  }
+  .app .tutor-button > svg:last-child {
+    display: none;
+  }
+  .app .tutor-button > svg:first-child {
+    width: 15px;
+  }
+  .app .page-content,
+  .app .tutor-page {
+    padding: 25px 5% 0;
+  }
+  .app .welcome-row {
+    display: block;
+    margin-bottom: 20px;
+  }
+  .app .welcome-row h1 {
+    font-size: 1.55rem;
+  }
+  .app .welcome-row p {
+    font-size: 0.72rem;
+  }
+  .app .welcome-row .eyebrow {
+    font-size: 0.49rem;
+  }
+  .app .pilot-stats {
+    margin-top: 20px;
+    padding: 0;
+    gap: 20px;
+  }
+  .app .pilot-stats > span {
+    display: flex;
+    gap: 7px;
+  }
+  .app .pilot-stats small {
+    font-size: 0.4rem;
+    letter-spacing: 0.7px;
+  }
+  .app .pilot-stats b {
+    font-size: 1.1rem;
+  }
+  .app .pilot-stats svg {
+    width: 15px;
+    height: 15px;
+  }
+  .app .pilot-stats > div {
+    height: 20px;
+  }
+  .app .adventure-hero {
+    height: 470px;
+  }
+  .app .hero-art {
+    inset: 0;
+    background-position: 70% center;
+  }
+  .app .adventure-hero:after {
+    background: linear-gradient(
+      0deg,
+      #e9f0e1 0%,
+      #e9f0e1 28%,
+      #e9f0e1ef 42%,
+      #e9f0e166 60%,
+      transparent 80%
+    );
+  }
+  .app .hero-copy {
+    position: absolute;
+    bottom: 0;
+    padding: 24px;
+    width: 100%;
+  }
+  .app .hero-copy h2 {
+    font-size: 2.6rem;
+    margin-top: 12px;
+    letter-spacing: -1.4px;
+  }
+  .app .hero-copy > p {
+    font-size: 0.7rem;
+    margin-bottom: 16px;
+  }
+  .app .hero-badge {
+    font-size: 0.4rem;
+    padding: 5px 7px;
+    background: #e9f0e1d9;
+  }
+  .app .hero-caption {
+    margin-top: 16px;
+  }
+  .app .hero-coordinates {
+    top: 15px;
+    bottom: auto;
+    right: 15px;
+    font-size: 0.32rem;
+    gap: 10px;
+  }
+  .app .hero-cta {
+    min-height: 48px;
+  }
+  .app .section-heading {
+    align-items: start;
+  }
+  .app .section-heading h2 {
+    font-size: 1.25rem;
+  }
+  .app .journey-count {
+    font-size: 0.48rem;
+    max-width: 120px;
+    flex-wrap: wrap;
+    gap: 5px;
+    justify-content: end;
+    line-height: 1.6;
+  }
+  .app .module-list {
+    display: flex;
+    overflow: auto;
+    gap: 8px;
+    margin-bottom: 20px;
+    padding-bottom: 8px;
+  }
+  .app .module-card {
+    min-width: 220px;
+    min-height: 84px;
+    flex: 1;
+  }
+  .app .module-card-text > strong {
+    font-size: 0.72rem;
+  }
+  .app .module-card-text > span:not(.module-progress) {
+    margin: 4px 0 8px;
+  }
+  .app .module-symbol {
+    font-size: 1.4rem;
+  }
+  .app .mission-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 14px;
+  }
+  .app .mission-thumbnail {
+    height: 150px;
+  }
+  .app .mission-details h4 {
+    font-size: 0.85rem;
+    min-height: 0;
+  }
+  .app .mission-details > p {
+    font-size: 0.63rem;
+    min-height: 30px;
+  }
+  .app .mission-details {
+    padding: 14px 12px;
+  }
+  .app .mission-card-bottom > span:last-child {
+    font-size: 0.55rem;
+  }
+  .app .mission-card-bottom .stars svg {
+    width: 13px;
+    height: 13px;
+  }
+  .app .world-heading h3 {
+    font-size: 0.7rem;
+    max-width: 240px;
+  }
+  .app .world-heading .eyebrow {
+    font-size: 0.43rem;
+    letter-spacing: 0.7px;
+  }
+  .app .world-progress {
+    font-size: 0.48rem;
+  }
+  .app .learning-note {
+    padding: 12px 10px;
+    gap: 7px;
+  }
+  .app .learning-note p {
+    font-size: 0.61rem;
+  }
+  .app .bottom-strip {
+    flex-direction: column;
+    gap: 10px;
+    padding: 20px 0;
+  }
+  .app .bottom-strip > div {
+    font-size: 0.59rem;
+    line-height: 1.7;
+  }
+  .app .bottom-strip > .text-button {
+    max-width: 100%;
+    justify-content: start;
+    font-size: 0.54rem;
+  }
+  .app .site-footer {
+    flex-direction: column;
+    gap: 14px;
+    align-items: start;
+    padding: 20px 5%;
+  }
+  .app .site-footer > span {
+    max-width: 100%;
+    font-size: 0.43rem;
+  }
+  .app .site-footer > div {
+    justify-content: space-between;
+    width: 100%;
+  }
+  .app .page-title {
+    gap: 20px;
+    align-items: start;
+  }
+  .app .page-title h1 {
+    font-size: 1.8rem;
+  }
+  .app .page-title p {
+    font-size: 0.75rem;
+  }
+  .app .page-title > .chip {
+    font-size: 0.57rem;
+  }
+  .app .hangar-grid {
+    grid-template-columns: 1fr;
+    gap: 20px;
+  }
+  .app .jet-sprite {
+    height: 240px;
+    max-width: 320px;
+  }
+  .app .jet-card {
+    padding: 24px;
+  }
+  .app .jet-card p {
+    min-height: 0;
+    margin-bottom: 25px;
+  }
+  .app .manual-grid {
+    grid-template-columns: 1fr;
+    gap: 0;
+  }
+  .app .manual-footer {
+    flex-wrap: wrap;
+    font-size: 0.7rem;
+  }
+  .app .manual-footer .button {
+    width: 100%;
+    margin: 10px 0;
+  }
+  .app .panel {
+    padding: 20px;
+  }
+  .app .tutor-layout {
+    display: block;
+  }
+  .app .tutor-nav {
+    flex-direction: row;
+    overflow: auto;
+    margin-bottom: 22px;
+    gap: 6px;
+  }
+  .app .tutor-nav > button {
+    flex-shrink: 0;
+    font-size: 0.62rem;
+    padding: 10px;
+    min-height: 48px;
+  }
+  .app .tutor-nav > button svg {
+    display: none;
+  }
+  .app .tutor-nav .local-note {
+    display: none;
+  }
+  .app .tutor-page .page-title .button {
+    font-size: 0.6rem;
+    gap: 5px;
+    padding: 8px 10px;
+  }
+  .app .tutor-page .page-title .button svg {
+    width: 13px;
+  }
+  .app .student-switch {
+    gap: 15px;
+  }
+  .app .student-switch label {
+    width: auto;
+    flex: 1;
+  }
+  .app .student-switch > .chip {
+    font-size: 0.52rem;
+    white-space: nowrap;
+  }
+  .app .settings-grid {
+    grid-template-columns: 1fr;
+  }
+  .app .profile-summary {
+    gap: 15px;
+    flex-wrap: wrap;
+  }
+  .app .profile-summary span {
+    font-size: 0.63rem;
+  }
+  .app .assignment-module-head {
+    align-items: start;
+    gap: 10px;
+  }
+  .app .assignment-module-head h3 {
+    font-size: 0.69rem !important;
+    line-height: 1.6;
+    max-width: 175px;
+  }
+  .app .assignment-module-head .text-button {
+    font-size: 0.6rem;
+    min-height: 24px;
+    white-space: nowrap;
+  }
+  .app .assignment > span:nth-child(2) {
+    min-width: 140px;
+  }
+  .app .assignment .inline-check {
+    margin-left: 38px;
+    flex: 1;
+  }
+  .app .assignment strong {
+    font-size: 0.7rem;
+  }
+  .app .assignment small {
+    font-size: 0.57rem;
+  }
+  .app .report-heading {
+    flex-wrap: wrap;
+  }
+  .app .report-stats {
+    gap: 20px;
+    justify-content: space-between;
+  }
+  .app .report-stats b {
+    font-size: 1.6rem;
+  }
+  .app .report-stats span {
+    font-size: 0.55rem;
+  }
+  .app .flight-page {
+    padding: 8px 0 20px;
+  }
+  .app .flight-heading {
+    padding: 0 12px;
+    margin-bottom: 8px;
+  }
+  .app .flight-heading .text-button {
+    font-size: 0.6rem;
+    gap: 5px;
+  }
+  .app .flight-heading > span {
+    font-size: 0.43rem;
+    gap: 6px;
+    flex-direction: column;
+  }
+  .app .flight-heading > span > b {
+    font-size: 0.65rem;
+  }
+  .app .flight-heading > .icon-button {
+    min-width: 38px;
+    min-height: 38px;
+  }
+  .app .arcade-shell {
+    border-radius: 0;
+    padding: 7px;
+    width: 100%;
+  }
+  .app .game-overlay {
+    padding: 10px;
+  }
+  .app .question-card {
+    padding: 16px;
+  }
+  .app .question-card h2 {
+    font-size: 1.2rem;
+  }
+  .app .question-prompt {
+    font-size: 0.72rem;
+  }
+  .app .equation {
+    font-size: 1.65rem;
+    padding: 12px 5px;
+  }
+  .app .question-top .eyebrow {
+    font-size: 0.43rem;
+    letter-spacing: 1px;
+  }
+  .app .safe-tag {
+    font-size: 0.4rem;
+  }
+  .app .supply-icon {
+    width: 28px;
+    height: 28px;
+  }
+  .app .question-foot {
+    font-size: 0.43rem;
+  }
+  .app .modal-backdrop {
+    padding: 15px;
+  }
+  .app .modal {
+    padding: 28px 24px;
+    max-height: calc(100dvh - 30px);
+  }
+  .app .brief-image {
+    margin: 0 -24px 25px;
+    padding: 20px 24px;
+  }
+  .app .modal h2 {
+    font-size: 1.65rem;
+  }
+  .app .brief-modal {
+    padding-top: 0;
+  }
+  .app .pause-card {
+    padding: 25px;
+  }
+  .app .story-steps {
+    font-size: 0.4rem;
+  }
+  .app .toast {
+    bottom: 12px;
+    padding: 12px 15px;
+    font-size: 0.7rem;
+    width: 90%;
+  }
+}
+@media (prefers-reduced-motion: reduce) {
+  * {
+    animation: none !important;
+    transition: none !important;
+  }
+}
+@media print {
+  body {
+    background: white !important;
+  }
+  .site-header,
+  .site-footer,
+  .tutor-nav,
+  .page-title,
+  .student-switch,
+  .no-print,
+  .storage-error,
+  .toast {
+    display: none !important;
+  }
+  .app .tutor-page,
+  .app .tutor-content,
+  .app .tutor-layout {
+    display: block;
+    padding: 0;
+    margin: 0;
+    max-width: none;
+  }
+  .app .panel {
+    border: 0;
+    background: white;
+    padding: 0;
+  }
+  .app .report-print {
+    display: block;
+  }
+  .app .report-print table {
+    font-size: 10px;
+  }
+  .table-scroll {
+    overflow: visible !important;
+  }
+  h3 {
+    break-after: avoid;
+  }
+  tr {
+    break-inside: avoid;
+  }
+  * {
+    box-shadow: none !important;
+    color: #222 !important;
+  }
+}
